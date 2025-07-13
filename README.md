@@ -18,8 +18,10 @@
 
 ### 🔍 Featured Projects
 
-- 🎮 [Python Mini Games Collection](https://github.com/PriyamPandey0712/mini-games-python)  
-  A fun set of 7 interactive games using Python and SimpleGUI:
+### 🎮 [Python Mini Games Collection](https://github.com/PriyamPandey0712/mini-games-python)  
+
+*-
+*A fun set of 7 interactive games using Python and SimpleGUI:
   - Rock, Paper, Scissors, Lizard, Spock  
   - Guess the Number  
   - Stopwatch: The Game  
