@@ -19,7 +19,7 @@
 ### 🔍 Featured Projects
 
 #### 📊 [Amazon Electronics Sales Analysis](https://github.com/Priyam0712/amazon-electronics-analysis)  
-*Tools: Python, Pandas, Matplotlib*  
+*Tools: Python, Pandas, Matplotlib, Power BI*  
 - Cleaned and visualized e-commerce data to understand customer behavior  
 - Built dashboards and charts for trend insights
 
