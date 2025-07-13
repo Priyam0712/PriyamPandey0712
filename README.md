@@ -18,17 +18,17 @@
 
 ### 🔍 Featured Projects
 
-#### 📊 [Amazon Electronics Sales Analysis](https://github.com/yourgithubusername/amazon-electronics-analysis)  
+#### 📊 [Amazon Electronics Sales Analysis](https://github.com/Priyam0712/amazon-electronics-analysis)  
 *Tools: Python, Pandas, Matplotlib*  
 - Cleaned and visualized e-commerce data to understand customer behavior  
 - Built dashboards and charts for trend insights
 
-#### 🧮 [Suzuki Car Sales Dashboard](https://github.com/yourgithubusername/suzuki-car-sales-dashboard)  
+#### 🧮 [Suzuki Car Sales Dashboard](https://github.com/Priyam0712/suzuki-car-sales-dashboard)  
 *Tools: Excel, Pivot Tables, Charts*  
 - Built interactive Excel dashboards to visualize monthly and yearly car sales  
 - Used slicers and KPIs for business insights
 
-#### 🏀 [Basketball Game Analysis (Computer Vision)](https://github.com/yourgithubusername/basketball-analysis-cv)  
+#### 🏀 [Basketball Game Analysis (Computer Vision)](https://github.com/Priyam0712/basketball-analysis-cv)  
 *Tools: Python, OpenCV, Flask*  
 - Analyzed shot speed, dribbles, elbow angle, and step count using CV  
 - Built a Flask-based API for video upload and real-time analytics
@@ -37,7 +37,7 @@
 *Tools: Java*  
 - Created a dice-based multiplayer Ludo game with complete game logic and GUI  
 
-#### 📈 [Power BI Sales Dashboard](https://github.com/yourgithubusername/powerbi-sales-dashboard)  
+#### 📈 [Power BI Sales Dashboard](https://github.com/Priyam0712/powerbi-sales-dashboard)  
 *Tools: Power BI*  
 - Built regional and product-wise sales dashboards  
 - Designed DAX measures and slicers for dynamic reporting
